@@ -1,0 +1,47 @@
+
+body {
+	color: #FFFFFF ;
+	font-family: helvetica;
+	font-size: 20px;
+	background-color: #F5730E ; 
+	background-image:url("img.jfif");
+	background-repeat: repeat-x;
+}
+h1 {
+	font-family: georgia;
+	font-size: 45px;
+	color: #F8E532 ;
+	text-align: center;
+	text-transform: uppercase; 
+	text-transform: capitalize;
+
+}
+h2 {
+	font-family: verdana;
+	font-size: 30px;
+	color: #F8E532;
+	text-align: center;
+	text-transform: uppercase; 
+	text-transform: capitalize;
+	text-decoration: underline;
+}
+h3 {
+	color: #183BF2 ;
+	text-transform: capitalize;
+}
+p{
+	text-indent: 40px;
+}
+
+li{list-style-type:circle;
+	text-align:center-left;
+}
+
+.imgcent{text-align: center;}
+
+.nav{text-align: center;}
+
+.nav li{text-align: center;
+		list-style-type: none;
+		display: inline;
+}
